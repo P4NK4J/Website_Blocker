@@ -2,6 +2,8 @@
 During working hours as per scheduled blocks the  websites mentioned in a list form
 
 
+![](https://forums.plex.tv/t/this-site-cant-be-reached-127-0-0-1-refused-to-connect/170493)
+
 
 
 ## Things to Remember.....
@@ -18,5 +20,5 @@ During working hours as per scheduled blocks the  websites mentioned in a list f
 
 
 
-### Enjoy_working_without_distraction....
+### Enjoy_working_without_distraction.... 
 
